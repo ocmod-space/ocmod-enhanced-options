@@ -1,32 +1,27 @@
 # How-to
 
-## How to install
-* Start by making a backup (both DB and store files)!!!
-* Admin > Extensions > Installer > [Upload]: enhanced-options-plus.ocmod.zip
-* Admin > Extensions > Modifications > [Refresh]
-* Admin > Dashboard > [Developer Settings] > [Refresh] (for OC 3.x)
-* Admin > Extensions > Extensions > Modules > [underr] Enhanced Options+ > [Install]
+## Warning
+REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS OF DATA, SO START ALL THE CHANGES BY BACKING UP THE DB AND FILES!
 
-## How to configure
-* Admin > Extensions > Extensions > Modules > [underr] Enhanced Options+ > [Edit]:
+## Install
+* Extensions → Installer → [Upload]: enhanced-options.ocmod.zip
+* Extensions → Modifications → [Refresh]
+* Dashboard → [Developer Settings] → [Refresh]
+* Extensions → Extensions → Modules → #ocmod.space: enhanced-options → [Install]
 
-## How to uninstall
-* Start by making a backup (both DB and store files)!!!
-* Admin > Extensions > Extensions > Modules > [underr] Enhanced Options+ > [Uninstall]
-* Admin > Extensions > Installer > Install History > enhanced-options-plus.ocmod.zip > [Uninstall]
-* Admin > Extensions > Modifications > [Refresh]
-* Admin > Dashboard > [Developer Settings] > [Refresh]
+## Uninstall
+* Extensions → Extensions → Modules → #ocmod.space: enhanced-options → [Uninstall]
+* Extensions → Installer → Install History → enhanced-options.ocmod.zip → [Uninstall]
+* Extensions → Modifications → [Refresh]
+* Dashboard → [Developer Settings] → [Refresh]
 
-## How to soft update
-* Start by making a backup (both DB and store files)!!!
-* Admin > Extensions > Extensions > Modules > [underr] Enhanced Options+ > [Uninstall]
-* Admin > Extensions > Installer > Install History > enhanced-options-plus.ocmod.zip > [Uninstall]
-* Admin > Extensions > Installer > [Upload]: enhanced-options-plus.ocmod.zip
-* Admin > Extensions > Modifications > [Refresh]
-* Admin > Dashboard > [Developer Settings] > [Refresh] (for OC 3.x)
-* Admin > Extensions > Extensions > Modules > [underr] Enhanced Options+ > [Install]
+## Update
+* Extensions → Extensions → Modules → #ocmod.space: enhanced-options → [Uninstall]
+* Extensions → Installer → Install History → enhanced-options.ocmod.zip → [Uninstall]
+* Extensions → Installer → [Upload]: enhanced-options.ocmod.zip
+* Extensions → Modifications → [Refresh]
+* Dashboard → [Developer Settings] → [Refresh]
+* Extensions → Extensions → Modules → #ocmod.space: enhanced-options → [Install]
 
-## How to full update
-* Uninstall
-* Install
-* Configure
+## Configure
+* Extensions → Extensions → Modules → #ocmod.space: enhanced-options → [Edit]

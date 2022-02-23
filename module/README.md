@@ -1,7 +1,7 @@
 # Enhanced Options
 
 ## Description
-**Enhanced Options** is an OpenCart extension which allows to apply special offers and discounts to product options and set one-time charged options.
+**Enhanced Options** is an OpenCart extension that allows to apply special offers and discounts to product options and assign one-time charged options.
 Compatible with OpenCart 2.2.x-3.x.
 
 ## Features
@@ -9,18 +9,18 @@ Compatible with OpenCart 2.2.x-3.x.
 * One-time charged options (calculated only once, regardless of product quantity).
 * Displaying option prices in the cart and on the checkout page.
 * Displaying ~~previous~~ option prices beside the current prices.
-* Allows to display test labels for options which meet certain conditions, eg. "Free", "Pre-order".
+* Allows to assign test labels, e.g. "Free", "Pre-order", for options those meet certain conditions.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/enhanced_options)
-* [Front](http://ocmod.freevar.com/oc3020/a)
+[Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/enhanced_options)  
+[Front](http://ocmod.freevar.com/oc3020/a)  
 
 ## License
 [End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-enhanced-options/main/EULA.txt)
 
 ## Download
-* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136)
+[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136)
 
 ## Related extensions
 * [Live Product](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005) - Update product prices in real time based on selected options and quantities.
