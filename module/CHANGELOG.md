@@ -1,14 +1,18 @@
 # Change log
 
+## [1.5.1] - 2022-11-11:
+### Internal
+- Code improvement
+
 ## [1.5.0] - 2022-02-21:
 ### Added
 - Cache SQL-queries
 ### Internal
-- Code improvements
+- Code improvement
 
 ## [1.4.1] - 2021-05-12:
 ### Internal
-- Internals improvements
+- Internal improvements
 
 ## [1.4.0] - 2021-02-26:
 ### Fixed
