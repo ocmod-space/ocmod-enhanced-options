@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.2] - 2023-01-15:
+### Fixed
+- Minor fix
+
 ## [1.5.1] - 2022-11-11:
 ### Internal
 - Code improvement
