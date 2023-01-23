@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.3] - 2023-01-23:
+### Fixed
+- Flat rate related error while saving product
+
 ## [1.5.2] - 2023-01-15:
 ### Fixed
 - Minor fix
