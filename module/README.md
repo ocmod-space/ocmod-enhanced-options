@@ -1,7 +1,7 @@
 # Enhanced Options
 
 ## Description
-**Enhanced Options** is an OpenCart extension that allows to apply special offers and discounts to product options and assign one-time charged options.
+**Enhanced Options** is an OpenCart extension that allows to apply special offers and discounts to product options and assign one-time charged options.  
 Compatible with OpenCart 2.2.x-3.x.
 
 ## Features
@@ -17,7 +17,7 @@ Compatible with OpenCart 2.2.x-3.x.
 [Front](http://ocmod.freevar.com/oc3020/a)  
 
 ## License
-[End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-enhanced-options/main/EULA.txt)
+[End-user License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-enhanced-options/main/EULA.txt)
 
 ## Download
 [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136)
