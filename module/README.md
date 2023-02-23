@@ -9,7 +9,7 @@ Compatible with OpenCart 2.2.x-3.x.
 * One-time charged options (calculated only once, regardless of product quantity).
 * Displaying option prices in the cart and on the checkout page.
 * Displaying ~~previous~~ option prices beside the current prices.
-* Allows to assign test labels, e.g. "Free", "Pre-order", for options those meet certain conditions.
+* Text labels (e.g. "Free" or "Pre-order") for options those meet certain conditions.
 * Does not modify system files (OCMOD).
 
 ## Live demo
