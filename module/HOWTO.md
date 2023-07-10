@@ -30,11 +30,11 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 There are two text labels that can be displayed next to the product option name:
 
 ### Free
-* Need to install the [Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) module.
+* The "[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383)" extension should be installed.
 * Set the following option values:
     - Option price: "0";
     - Option price prefix: "=".
 ### Pre-Order
 * Set the following option values:
-    - Option quntity: "0";
+    - Option quantity: "0";
     - Subtraction: "No".
