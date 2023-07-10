@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.4] - 2023-07-05:
+### Fixed
+- Dynamic properties in the cart.php
+
 ## [1.5.3] - 2023-01-23:
 ### Fixed
 - Flat rate related error while saving product
