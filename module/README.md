@@ -18,14 +18,14 @@ Compatible with OpenCart 2.2.x-3.x.
 * [Product](https://demo.ocmod.space/a/canon-eos-5d]) with flat-pricing options.
 
 ## License
-[End-user License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-enhanced-options/main/EULA.txt)
+[End-user License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-enhanced-options/main/EULA.txt).
 
-## Download
-* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391)
-* [OCMod Space](https://www.ocmod.space/enhanced-options)
+## Links
+* **Enhanced Options** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391).
+* [**Enhanced Options**](https://www.ocmod.space/enhanced-options) web page.
 
 ## Related extensions
-* Allow customers see price changes in real time, when they select product options or change product quantity using the "[Live Product](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005)" module.
-* Simplify admin work when you need to apply special offers to all products of a certain manufacturer or category using the "[Enhanced Specials](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136)" module.
-* The "[Price Range](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331)" module allows customers to see the minimum and maximum price of product with options.
-* Use the equals prefix in product options with the "[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383)" extension.
+* Allow customers see price changes in real time, when they select product options or change product quantity using the [**Live Product**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005) module.
+* Simplify admin work when you need to apply special offers to all products of a certain manufacturer or category using the [**Enhanced Specials**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) module.
+* The [**Price Range**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331) module allows customers to see the minimum and maximum price of product with options.
+* Use the equals prefix in product options with the [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension.
