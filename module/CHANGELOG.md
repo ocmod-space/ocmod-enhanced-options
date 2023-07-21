@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.5] - 2023-07-21:
+### Fixed
+- Event uninstaller.
+
 ## [1.5.4] - 2023-07-05:
 ### Fixed
 - Dynamic properties in the `system/library/cart/cart.php`.
