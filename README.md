@@ -1,9 +1,8 @@
 # Enhanced Options
 
 ## Description
-**Enhanced Options** is an OpenCart extension that allows to apply specials and discounts to product options, to define *flat-price* options, that are charged once regardless of product quantity, and more.  
-Compatible with OpenCart 2.2.x-3.x.  
-[Read more...](./module/README.md)
+**Enhanced Options** is designed to apply product special offers and discounts to their options, as well as to define one-time options, the prices of which do not depend on the quantity of the selected product.  
+Compatible with OpenCart 3.x. [Read more...](./module/README.md)
 
 ## Links
 * **Enhanced Options** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391).

@@ -1,15 +1,15 @@
 # Enhanced Options
 
 ## Description
-**Enhanced Options** is an OpenCart extension that allows to apply specials and discounts to product options, to define *flat-price* options, that are charged once regardless of product quantity, and more.
-Compatible with OpenCart 2.2.x-3.x.
+**Enhanced Options** is designed to apply product special offers and discounts to their options, as well as to define one-time options, the prices of which do not depend on the quantity of the selected product.  
+Compatible with OpenCart 3.x.
 
 ## Features
-* Apply *flex-pricing* when product optio prices will change with the product specials and discounts.
-* Define *flat-pricing* product options to charge once regardless of product quantity.
-* Option prices in the cart view and on the checkout page.
-* Show ~~previous~~ option prices beside the new special prices for better visibility.
-* Text labels (e.g. "Free" or "Pre-order") for options those meet certain conditions.
+* *Flex*-options which inherit product price reduction due to specials or discounts.
+* *Flat*-options which price charge only once regardless of selected product quantity.
+* Show option prices on the cjeckout page and in the cart.
+* Show ~~previous~~ option prices if the *flex*-pricing is active, e.g., `Checkbox 1 ($5.00 `~~`$10.00`~~`)` .
+* Marks for options with certain conditions, e.g., an option with price prefix of `=` and no price will be marked as *Free*, and an option with no subtraction and quantity of `0` will be marked as *Preorder*.
 * Does not modify system files (OCMOD).
 
 ## Live demo

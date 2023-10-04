@@ -1,8 +1,14 @@
 # Change log
 
+## [2.0.0] - 2023-10-03:
+### Internal
+- The code has been significantly reworked.
+### Removed
+- Compatibility with the PHP 5.6 and OC2.x
+
 ## [1.5.5] - 2023-07-21:
 ### Fixed
-- Event uninstaller.
+- Uninstaller event.
 
 ## [1.5.4] - 2023-07-05:
 ### Fixed
