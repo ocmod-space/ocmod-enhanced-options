@@ -8,7 +8,7 @@ Compatible with OpenCart 3.x.
 * *Flex*-options which inherit product price reduction due to specials or discounts.
 * *Flat*-options which price charge only once regardless of selected product quantity.
 * Show option prices on the cjeckout page and in the cart.
-* Show ~~previous~~ option prices if the *flex*-pricing is active, e.g., `Checkbox 1 ($5.00 `~~`$10.00`~~`)` .
+* Show ~~original~~ option prices if the *flex*-pricing is active, e.g., `Checkbox 1 ($5.00 `~~`$10.00`~~`)` .
 * Marks for options with certain conditions, e.g., an option with price prefix of `=` and no price will be marked as *Free*, and an option with no subtraction and quantity of `0` will be marked as *Preorder*.
 * Does not modify system files (OCMOD).
 

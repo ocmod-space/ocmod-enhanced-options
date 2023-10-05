@@ -1,8 +1,11 @@
 # Change log
 
 ## [2.0.0] - 2023-10-03:
+### Added
+- Ability to set a certain product option as *flex*.
 ### Internal
 - The code has been significantly reworked.
+- Better compatibility with the 3rd-party themes and modules.
 ### Removed
 - Compatibility with the PHP 5.6 and OC2.x
 
