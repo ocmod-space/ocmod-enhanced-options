@@ -26,6 +26,6 @@ Compatible with OpenCart 3.x.
 
 ## Related extensions
 * Allow customers to see live price changes, when they select product options or change product quantity using the [**Live Product**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005) module.
+* The [**Price Range**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331) is a simple but powerful OpenCart extension that allows to display product price range based on minimum and maximum possible price of product and its options. Quantity based discounts taking into account also.
 * Simplify admin work when you need to apply special offers to all products of a certain manufacturer or category using the [**Enhanced Specials**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) module.
-* The [**Price Range**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331) module allows customers to see the minimum and maximum price of product with options.
-* Use the equals prefix in product options with the [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension.
+* The [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) is an extension that allows the equality prefix to be used in product options.
