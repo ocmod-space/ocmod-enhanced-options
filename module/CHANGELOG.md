@@ -3,6 +3,8 @@
 ## [2.0.2] - 2023-10-18:
 ### Fixed
 - Calculation related to product with discount and related options with type of *flex*.
+### Internal
+- Added a fuse to prevent option price from changing again when used by other modules.
 
 ## [2.0.1] - 2023-10-10:
 ### Fixed
