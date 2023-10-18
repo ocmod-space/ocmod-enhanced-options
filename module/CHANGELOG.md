@@ -1,5 +1,13 @@
 # Change log
 
+## [2.0.2] - 2023-10-18:
+### Fixed
+- Calculation related to product with discount and related options with type of *flex*.
+
+## [2.0.1] - 2023-10-10:
+### Fixed
+- Apply the *flex* to product option price when the product has discount.
+
 ## [2.0.0] - 2023-10-03:
 ### Added
 - Ability to set a certain product option as *flex*.
