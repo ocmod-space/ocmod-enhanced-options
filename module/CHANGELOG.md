@@ -3,6 +3,7 @@
 ## [2.0.2] - 2023-10-18:
 ### Fixed
 - Calculation related to product with discount and related options with type of *flex*.
+- Mistaken dependency on the **Equal Sign** extension.
 ### Internal
 - Changed the method of adding marks.
 - Added a fuse to prevent option price from changing again when used by other modules.
