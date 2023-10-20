@@ -13,7 +13,7 @@ function get_clo() {
 	$o .= LISTFCL;
 
 	$options = getopt($o);
-	$clo = array();
+	$clo = [];
 
 	if (isset($options[MAKEZIP])) {
 		$clo[MAKEZIP] = ($options[MAKEZIP] !== false)
@@ -52,7 +52,7 @@ function getWd($num) {
 }
 
 function getDirList(string $path) {
-	$list = array();
+	$list = [];
 
 	if (is_dir($path)) {
 		foreach (scandir($path) as $dir) {
@@ -67,7 +67,7 @@ function getDirList(string $path) {
 }
 
 function getFileList($path) {
-	$files = array();
+	$files = [];
 
 	if (is_dir($path)) {
 		$iterator = new RecursiveIteratorIterator(
@@ -140,7 +140,7 @@ function mkzip($srcdir, $zipfile, $force = false) {
 	}
 }
 
-function replacer($file, $to_replace = array()) {
+function replacer($file, $to_replace = []) {
 	if (!$to_replace) {
 		$to_replace = get_defined_constants(true)['user'];
 	}
@@ -232,7 +232,7 @@ function hideg($file) {
 }
 
 function numbered() {
-	$list = array();
+	$list = [];
 
 	if (is_dir(MDIR) && is_dir(getConcatPath(MDIR, SRCDIR))) {
 		$list[] = strtolower(basename(getcwd()));
