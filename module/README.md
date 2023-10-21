@@ -5,11 +5,11 @@
 Compatible with OpenCart 3.x.
 
 ## Features
-* *Flex*-options which inherit product price reduction due to specials or discounts.
-* *Flat*-options which price charge only once regardless of selected product quantity.
-* Show option prices on the cjeckout page and in the cart.
-* Show ~~original~~ option prices if the *flex*-pricing is active, e.g., `Checkbox 1 ($5.00 `~~`$10.00`~~`)` .
-* Marks for options with certain conditions, e.g., an option with price prefix of `=` and no price will be marked as *Free*, and an option with no subtraction and quantity of `0` will be marked as *Preorder*.
+* Designation product options as `flex`, that means they will inherit product price reductions from specials or discounts.
+* Designation product options as `flat`, that means their prices are charged only once regardless of the product selected quantity.
+* Displaying option prices on the checkout page and in the cart.
+* Displaying [s]original[/s] option prices if they are changed by special promotion, e.g., `Checkbox 1 ($5.00 [s]$10.00[/s])`.
+* Displaying custom text marks for certain options, e.g., an option with a combination of price `0` and prefix `=` can be marked as [i]Free[/i], and another one without subtraction and quantity of `0` - as `Preorder`.
 * Does not modify system files (OCMOD).
 
 ## Live demo
