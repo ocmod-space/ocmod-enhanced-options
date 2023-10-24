@@ -1,5 +1,9 @@
 # Change log
 
+## [2.0.3] - 2023-10-24:
+### Fixed
+- Minor fix to SQL query when editing a product.
+
 ## [2.0.2] - 2023-10-18:
 ### Fixed
 - Calculation related to product with discount and related options with type of *flex*.
