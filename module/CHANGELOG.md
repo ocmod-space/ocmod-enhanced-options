@@ -2,7 +2,8 @@
 
 ## [2.0.3] - 2023-10-24:
 ### Fixed
-- Minor fix to SQL query when editing a product.
+- SQL query when editing a product.
+- SQL query when changing an order status.
 
 ## [2.0.2] - 2023-10-18:
 ### Fixed
