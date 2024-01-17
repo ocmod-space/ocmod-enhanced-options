@@ -1,5 +1,9 @@
 # Change log
 
+## [2.0.4] - 2024-01-16:
+### Changed
+- Minor changes in admin.
+
 ## [2.0.3] - 2023-10-24:
 ### Fixed
 - SQL query when editing a product.
