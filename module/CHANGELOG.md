@@ -1,8 +1,10 @@
 # Change log
 
 ## [2.0.4] - 2024-01-16:
+### Fixed
+- Preorder text tags.
 ### Changed
-- Minor changes in admin.
+- Admin interface and internals.
 
 ## [2.0.3] - 2023-10-24:
 ### Fixed
