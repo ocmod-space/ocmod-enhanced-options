@@ -1,5 +1,9 @@
 # Change log
 
+## [2.0.5] - 2024-01-29:
+### Fixed
+- Cache system.
+
 ## [2.0.4] - 2024-01-16:
 ### Fixed
 - Preorder text tags.
