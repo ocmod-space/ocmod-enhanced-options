@@ -1,5 +1,9 @@
 # Change log
 
+## [2.0.6] - 2024-02-12:
+### Fixed
+- Minor: `PHP Notice:  Undefined index: flat in /home/ablaktan/new.ablaktanya.hu/storage/modification/admin/controller/catalog/product.php`
+
 ## [2.0.5] - 2024-01-29:
 ### Fixed
 - Cache system.
