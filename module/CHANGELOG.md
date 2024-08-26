@@ -1,5 +1,13 @@
 # Change log
 
+## [2.0.8] - 2024-08-26:
+### Internal
+- Minor admin internal changes and code improvements.
+
+## [2.0.7] - 2024-04-04:
+### Fixed
+- Compatibility with versions below 3.0.3.9
+
 ## [2.0.6] - 2024-02-12:
 ### Fixed
 - Minor: `PHP Notice:  Undefined index: flat in /modification/admin/controller/catalog/product.php`
